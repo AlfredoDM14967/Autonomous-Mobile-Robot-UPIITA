@@ -1,0 +1,9 @@
+<library path="rover_firmware">
+    <class name="rover_firmware/RoverInterfaz"
+      type="rover_firmware::RoverInterfaz"
+      base_class_type="hardware_interface::SystemInterface">
+      <description>
+        Interfaz Rover Hardware
+      </description>
+    </class>
+  </library>
